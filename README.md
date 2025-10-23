@@ -34,6 +34,7 @@ O que estou aprendendo
 
 Atualmente, estou aprofundando meus conhecimentos em Big Data, com foco na arquitetura e implementação de Data Lakes.
 
+
 🤖 Linguagens e Tecnologias
 
 <img
@@ -221,6 +222,7 @@ style="padding-right: 10px;"
 src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"
 />
 
+
 📊 Estatísticas
 
 <p>
@@ -229,7 +231,7 @@ align="left"
 alt="GitHub Stats"
 height="200"
 style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api?username=sabrinalvesfraguela&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsabrinalvesfraguela%26show_icons%3Dtrue%26theme%3Dtokyonight%26locale%3Dpt-br"
 />
 
 <img
@@ -240,3 +242,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinalvesf
 />
 
 </p>
+<br clear="all">
