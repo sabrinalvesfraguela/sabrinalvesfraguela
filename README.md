@@ -2,10 +2,10 @@
 
 ### Data Science Student @ FIAP | IT Management Graduate
 
-Olá! Me chamo **Sabrina Fraguela**, tenho 22 anos. Sou formada em **Gestão da Tecnologia da Informação** e atualmente sou estudante de **Data Science na FIAP**.  
+Olá! Me chamo **Sabrina Fraguela**, tenho 23 anos. Sou formada em **Gestão da Tecnologia da Informação** e atualmente sou estudante de **Data Science na FIAP**.  
 Minha paixão é utilizar uma abordagem analítica para resolver problemas complexos, e aqui você encontrará exemplos práticos do meu trabalho.
 
-Minha trajetória profissional em ambientes de alta criticidade, como na **Wise System** e no **Ministério Público do Trabalho**, me deu uma base sólida em diagnóstico de incidentes e manutenção de bancos de dados.
+Minha trajetória profissional em ambientes de alta criticidade, como na **Tera Science**, **Wise System** e no **Ministério Público do Trabalho**, me deu uma base sólida em diagnóstico de incidentes e manutenção de bancos de dados.
 
 ---
 
